@@ -6,7 +6,7 @@
 <br>
 <br>
 
-## 🇺🇸 Transitioning Service Member, and am evolving in becoming a Network & Cloud Computing Engineer.
+## 🇺🇸 Transitioning Service Member, Network & Cloud Engineering Prospect
 
 I am a transitioning Service Member with over 20 years of leadership and technical experience in the Electromagnetic Spectrum.  Born in El Paso Tx, raised in Dallas, TX, I am the first Mexican-American in my family in becoming a college graduate, achieving my Bachelors of Science in Network Operations Security through Western Governors University (WGU) .  I will soon also be the first in my family to obtain a Masters in Network Engineering from Southern Methodists University.  
 
