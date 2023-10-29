@@ -18,7 +18,6 @@ I am an enthusiastic scholar of the profession who eagerly studies emerging tech
 - 🗓 I’m currently studying for the AWS Solutions Archititure Exam (Spring 24), Network Automation, and lastly JSON, Python, YAML (due to automation & cloud, but now as an interest)
 - 🇲🇽 I'm currently honing to improve & perfect my Spanish!!!
 - 🤔 Any mentorship and advice is welcomed!
-- 📫 How to reach me: ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,7 +38,6 @@ Soy un entusiasta estudioso de la profesión que estudia con entusiasmo las tecn
 - 🗓 Actualmente estoy estudiando para el examen de Arquitectura de Soluciones de AWS (Primavera 24), Automatización de Redes y, por último, JSON, Python, YAML (debido a la automatización y la nube, pero ahora como un interés).
 - 🇲🇽 ¡¡¡Actualmente estoy perfeccionando mi español!!!
 - 🤔 ¡Cualquier tutoría y consejo es bienvenido!
-- 📫 Cómo contactarme: ..
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
