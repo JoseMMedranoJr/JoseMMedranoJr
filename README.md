@@ -1,8 +1,7 @@
 # <img width="1834" alt="JoseREADME" src="https://github.com/JoseMMedranoJr/JoseMMedranoJr/assets/149314619/d4ee5240-b52f-4d94-b947-bf444d062262">
 🇺🇸 Hi there 👋, my name is Jose
 
-[<img align="left" alt="josemmedranojr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="jose.m.medranojr| Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseMMedranoJr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josemmedrano/)  
 
 
 ## 🇺🇸 I am a transitioning Service Member, and am evolving in becoming a Network & Cloud Computing Engineer.
