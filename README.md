@@ -16,7 +16,7 @@ I am an enthusiastic scholar of the profession who eagerly studies emerging tech
 - 🤔 Any mentorship and advice is welcomed!
 - 📫 How to reach me: ...
 
-[<img align="left" alt +"JoseMMedranoJr | LinkedIn" width"22px" src"[#0A66C2](https://myoctocat.com/assets/images/base-octocat.svg))" />/][linkein]
+[<img align="left" alt +"JoseMMedranoJr | LinkedIn" width"22px" src"https://myoctocat.com/assets/images/base-octocat.svg" />/][linkein]
 
 [linkedin]: www.linkedin.com/in/josemmedranojr
 
