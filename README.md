@@ -12,7 +12,7 @@ I am an enthusiastic scholar of the profession who eagerly studies emerging tech
   CCNA, AWS CCP, Linux + Essentials, CompTIA A+, Net +, Security +, Project +
 - 📚 I’m currently working on completing my Masters in Network Engineering from SMU
 - 🗓 I’m currently studying for the AWS Solutions Archititure Exam (Spring 24), Network Automation, and lastly JSON, Python, YAML (due to automation & cloud, but now as an interest)
-- 🇲🇽 I'm currently honing to improve perfect my Spanish!!!
+- 🇲🇽 I'm currently honing to improve & perfect my Spanish!!!
 - 🤔 Any mentorship and advice is welcomed!
 - 📫 How to reach me: ...
 
