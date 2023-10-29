@@ -2,8 +2,7 @@
 
 [<img align="left" alt="josemmedranojr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="jose.m.medranojr| Gmail" width="22px" src="./gmail.svg" />][gmail]
-[linkedin]: www.linkedin.com/in/josemmedranojr
-[gmail]: jose.m.medranojr@gmail.com
+
 
 ## 🇺🇸 I am a transitioning Service Member, and am evolving in becoming a Network & Cloud Computing Engineer.
 
@@ -20,10 +19,6 @@ I am an enthusiastic scholar of the profession who eagerly studies emerging tech
 - 🇲🇽 I'm currently honing to improve & perfect my Spanish!!!
 - 🤔 Any mentorship and advice is welcomed!
 - 📫 How to reach me: ...
-
-[<img align="left" alt +"JoseMMedranoJr | LinkedIn" width"22px" src"https://myoctocat.com/assets/images/base-octocat.svg" />/][linkein]
-
-[linkedin]: www.linkedin.com/in/josemmedranojr
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr&theme=synthwave&show_icons=true)
 
@@ -46,8 +41,7 @@ Soy un entusiasta estudioso de la profesión que estudia con entusiasmo las tecn
 - 🤔 ¡Cualquier tutoría y consejo es bienvenido!
 - 📫 Cómo contactarme: ..
 
-[<img align="left" alt +"JoseMMedranoJr | LinkedIn" width"22px" src"./ling.svg" />/][linkein]
-
-[linkedin]: www.linkedin.com/in/josemmedranojr
-
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr&theme=synthwave&show_icons=true)
+
+[linkedin]: https://www.linkedin.com/in/josemmedranojr
+[gmail]: mailto:jose.m.medranojr@gmail.com
