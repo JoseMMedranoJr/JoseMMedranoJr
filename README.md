@@ -19,7 +19,7 @@ I am an enthusiastic scholar of the profession who eagerly studies emerging tech
 - 🇲🇽 I'm currently honing to improve & perfect my Spanish!!!
 - 🤔 Any mentorship and advice is welcomed!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------------------------------------------------------------------------------------------
 # 🇲🇽 Hola 👋, mi nombre es Jose
@@ -39,7 +39,7 @@ Soy un entusiasta estudioso de la profesión que estudia con entusiasmo las tecn
 - 🇲🇽 ¡¡¡Actualmente estoy perfeccionando mi español!!!
 - 🤔 ¡Cualquier tutoría y consejo es bienvenido!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/josemmedranojr
 [gmail]: mailto:jose.m.medranojr@gmail.com
