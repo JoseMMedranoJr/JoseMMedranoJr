@@ -4,7 +4,7 @@
 ![linkedin](https://github.com/JoseMMedranoJr/JoseMMedranoJr/assets/149314619/9d779d53-020c-4dd4-bb96-fb96863d61f5)
 [<img align="left" alt="josemmedranojr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 ![gmail](https://github.com/JoseMMedranoJr/JoseMMedranoJr/assets/149314619/49feb6a4-8aa8-414b-bf47-f6106413d410)
-[<img align="left" alt="jose.m.medranojr| Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="center" alt="jose.m.medranojr| Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 
 ## 🇺🇸 I am a transitioning Service Member, and am evolving in becoming a Network & Cloud Computing Engineer.
