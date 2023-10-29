@@ -1,8 +1,6 @@
 # 🇺🇸 Hi there 👋, my name is Jose
-# 🇲🇽 Hola 👋, mi nombre es Jose
 
 ## 🇺🇸 I am a transitioning Service Member, and am evolving in becoming a Network & Cloud Computing Engineer.
-## 🇲🇽 Soy un miembro del servicio en transición y estoy evolucionando para convertirme en ingeniero de computación en la nube y redes.
 
 🇺🇸 I am a transitioning Service Member with over 20 years of leadership and technical experience in the Electromagnetic Spectrum.  Born in El Paso Tx, raised in Dallas, TX, I am the first Mexican-American in my family in being a college graduate, achieving my Bachelors of Science in Network Operations Security through Western Governors University (WGU) .  I will soon also be the first in my family to obtain a Masters in Network Engineering from Southern Methodists University.  
 
@@ -25,7 +23,11 @@ I am an enthusiastic scholar of the profession who eagerly studies emerging tech
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr&theme=synthwave&show_icons=true)
 
 --------------------------------------------------------------------------------------------------------------------
-🇲🇽 Soy un miembro del servicio en transición con más de 20 años de liderazgo y experiencia técnica en el espectro electromagnético. Nacido en El Paso Tx, criado en Dallas, TX, soy el primer mexicano-estadounidense de mi familia en graduarse de la universidad y obtener mi Licenciatura en Ciencias en Seguridad de Operaciones de Redes a través de Western Governors University (WGU). Pronto también seré el primero en mi familia en obtener una Maestría en Ingeniería de Redes de la Universidad Metodista del Sur.
+# 🇲🇽 Hola 👋, mi nombre es Jose
+
+## 🇲🇽 Soy un miembro del servicio en transición y estoy evolucionando para convertirme en Ingeniero de Computación en la Nube y Redes.
+
+Soy un miembro del servicio en transición con más de 20 años de liderazgo y experiencia técnica en el espectro electromagnético. Nacido en El Paso Tx, criado en Dallas, TX, soy el primer mexicano-estadounidense de mi familia en graduarse de la universidad y obtener mi Licenciatura en Ciencias en Seguridad de Operaciones de Redes a través de Western Governors University (WGU). Pronto también seré el primero en mi familia en obtener una Maestría en Ingeniería de Redes de la Universidad Metodista del Sur.
 
 Soy un profesional adaptable, reconocido por mis pares por mi colaboración efectiva y habilidades de pensamiento crítico. Mi objetivo es aplicar mi experiencia y educación en ingeniería de redes y nube para diseñar, implementar y mantener infraestructura y operaciones de red seguras y eficientes.
 
@@ -33,8 +35,8 @@ Soy un entusiasta estudioso de la profesión que estudia con entusiasmo las tecn
 
 - 💯 He logrado:
   CCNA, AWS CCP, Linux + Essentials, CompTIA A+, Net +, Security +, Project +
-- 📚 Actualmente estoy trabajando para completar mi Maestría en Ingeniería de Redes de SMU.
-- 🗓 Actualmente estoy estudiando para el examen de arquitectura de soluciones de AWS (primavera 24), automatización de redes y, por último, JSON, Python, YAML (debido a la automatización y la nube, pero ahora como un interés).
+- 📚 Actualmente estoy trabajando para completar mi Maestría en Ingeniería de Redes de Sothern Methodist University.
+- 🗓 Actualmente estoy estudiando para el examen de Arquitectura de Soluciones de AWS (Primavera 24), Automatización de Redes y, por último, JSON, Python, YAML (debido a la automatización y la nube, pero ahora como un interés).
 - 🇲🇽 ¡¡¡Actualmente estoy perfeccionando mi español!!!
 - 🤔 ¡Cualquier tutoría y consejo es bienvenido!
 - 📫 Cómo contactarme: ..
