@@ -1,13 +1,15 @@
 # <img width="1834" alt="JoseREADME" src="https://github.com/JoseMMedranoJr/JoseMMedranoJr/assets/149314619/d4ee5240-b52f-4d94-b947-bf444d062262">
 🇺🇸 Hi there 👋, my name is Jose
 
-[<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' align="left" alt='github' height='40'>](https://github.com/JoseMMedranoJr)  
-[<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' align="left" alt='linkedin' height='40'>](https://www.linkedin.com/in/josemmedrano/)  
+[<img <img align="left" alt="jose.m.medranojr | Gmail" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' align="left" alt='github' height='40' />][gmail]
+[<img align="left" alt="JoseMMedranoJr | LinkedIn" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' />][linkedin] 
 
+<br>
+<br>
 
 ## 🇺🇸 I am a transitioning Service Member, and am evolving in becoming a Network & Cloud Computing Engineer.
 
-🇺🇸 I am a transitioning Service Member with over 20 years of leadership and technical experience in the Electromagnetic Spectrum.  Born in El Paso Tx, raised in Dallas, TX, I am the first Mexican-American in my family in becoming a college graduate, achieving my Bachelors of Science in Network Operations Security through Western Governors University (WGU) .  I will soon also be the first in my family to obtain a Masters in Network Engineering from Southern Methodists University.  
+I am a transitioning Service Member with over 20 years of leadership and technical experience in the Electromagnetic Spectrum.  Born in El Paso Tx, raised in Dallas, TX, I am the first Mexican-American in my family in becoming a college graduate, achieving my Bachelors of Science in Network Operations Security through Western Governors University (WGU) .  I will soon also be the first in my family to obtain a Masters in Network Engineering from Southern Methodists University.  
 
 I am an adaptable professional, recognized by peers for my effective collaboration and critical thinking skills.  My goal is to apply my experience and education in Network and Cloud Engineering to design, implement, and maintain secure and efficient network infrastructure and operations. 
 
