@@ -20,7 +20,7 @@ I am an enthusiastic scholar of the profession who eagerly studies emerging tech
 - 🤔 Any mentorship and advice is welcomed!
 - 📫 How to reach me: ...
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr&theme=synthwave&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMMedranoJr)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------------------------------------------------------------------------------------------
 # 🇲🇽 Hola 👋, mi nombre es Jose
