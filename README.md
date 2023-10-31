@@ -1,6 +1,6 @@
 # <img width="1834" alt="JoseREADME" src="https://github.com/JoseMMedranoJr/JoseMMedranoJr/assets/149314619/d4ee5240-b52f-4d94-b947-bf444d062262">
 
-[<img align="left" alt="jose.m.medranojr | Gmail" width="35px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg)' />][gmail]
+[<img align="left" alt="jose.m.medranojr | Gmail" width="35px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' />][gmail]
 [<img align="left" alt="JoseMMedranoJr | LinkedIn" width="35px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' />][linkedin] 
 
 <br>
